@@ -1,0 +1,12 @@
+body,html{font-family: sans-serif;background:#BCAAA4;}
+
+.wrapper{width:560px;margin:0 auto;background:#6D4C41; padding:30px;border-radius:5px;color:#fff;}
+
+img{margin:50px auto 20px;display: block;}
+h1{margin: -30px -30px 30px;text-align: center;background: #8D6E63;padding: 30px 0;color: #fff;border-radius: 5px 5px 0 0;}
+form{margin-top: 20px;}
+form label{display:block;margin-bottom: 5px;color:#fff;}
+form input{margin-bottom:10px;padding:10px 20px;width:100%;box-sizing:border-box;}
+
+.button{width:auto;background:#03A9F4;color:#fff;border-radius:5px;border:1px solid #039BE5;cursor:pointer;}
+.button-delete{width:auto;background:#F44336;color:#fff;border-radius:5px;border:1px solid #B71C1C;cursor:pointer;}

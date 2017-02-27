@@ -1,0 +1,18 @@
+{
+  "name": "donald-trump-tweet-notifer",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "repository": "",
+  "author": "Austin Songer <austinvernsonger@outlook.com>",
+  "dependencies": {
+    "async": "~0.2.8",
+    "body-parser": "^1.16.1",
+    "express": "~4.14.1",
+    "hbs": "^4.0.1",
+    "mongoose": "^4.8.5",
+    "phone": "^1.0.9",
+    "twilio": "^2.11.1",
+    "twitter": "^1.7.0"
+  }
+}
